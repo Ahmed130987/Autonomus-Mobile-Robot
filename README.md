@@ -17,7 +17,7 @@ path according to the clear path
 
 RC mode:
 -------
-In this mode, the car is controlled manually via Bluetooth communication (UART) from an APP on a mobile robot. In this mode, the driver can control the in every direction. 
+In this mode, the car is controlled manually via Bluetooth communication (UART) from an APP on a mobile robot. In this mode, the driver can control the in every direction. Also, the speed of the car can be controlled from the app
 The LCD display is used to display the car status. For instance, in the autonomous mode, the LCD message "Autonomous" indicated the car mode and the distance measuring by the 
 ultrasonic sensor. However, in the RC model, the LCD "manual" indicates the mode and display the "forward, backward, turning left, turning right," which are the command 
 received from the controller.
