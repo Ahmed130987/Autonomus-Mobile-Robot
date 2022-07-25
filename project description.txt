@@ -1,6 +1,8 @@
 Amit Embedded System Diploma
 Autonomous Car project
 
+By: Ahmed Mohamed Elsayed Mohamed Moustafa
+
 The project is a wheeled mobile robot. The robot with two modes (Autonomous mode and RC mode)
 
 Autonomous mode: 
